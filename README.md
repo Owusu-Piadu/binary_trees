@@ -1,13 +1,6 @@
 # Project Name
 **0x1D. C - Binary trees**
 
-## Author's Details
-Name: *Wendy Munyasi.*
-
-Email: *wendymunyasi@gmail.com*
-
-Tel: *+254707240068.*
-
 ##  Requirements
 *   Allowed editors: `vi`, `vim`, `emacs`.
 *   All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options `-Wall -Werror -Wextra -pedantic -std=gnu89`.
@@ -111,7 +104,3 @@ What is a complete, a full, a perfect, a balanced binary tree.
 * **40. Heap - Sort** - Write a function that converts a Binary Max Heap to a sorted array of integers. - `134-heap_to_sorted_array.c`, `133-heap_extract.c`.
 * **41. Big O #Binary Heap** - What are the average time complexities of those operations on a Binary Heap (one answer per line). - `135-O`.
 
-
-## Collaborate
-
-To collaborate, reach me through my email address wendymunyasi@gmail.com.
